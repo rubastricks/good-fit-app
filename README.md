@@ -17,7 +17,7 @@ Fitness app to help users search for workout ideas, and what equipment to use wi
 
 ## Disclaimer 🔴
 
-The App is using a free version of Rapid API, there is a chance not all the features from the APIs will be available since the free version allow 500 request per month! 
+The App uses a free version of Rapid API, there is a chance not all the features from the APIs will be available since the free version allow 500 requests per month! 
 
 # Media 🎥 📷 
 
